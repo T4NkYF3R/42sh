@@ -117,7 +117,12 @@ make re
 
 ## 👥 Team
 
-Project developed during 8 weeks by a team of 5 students from Epitech.
+Project developed during 8 weeks by a team of 4 students from Epitech.
+
+- [Nicolas](https://github.com/T4NkYF3R)
+- [Taïssey](https://github.com/Nyanjirow7)
+- [Max](https://github.com/Sookyuu)
+- [Léo](https://github.com/Akeuuu)
 
 ---
 
